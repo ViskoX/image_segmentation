@@ -1,0 +1,11 @@
+data/*
+checkpoints/
+covid-seg-env/
+logs/
+inference/*
+mlruns/*
+train_logs/
+kaggle.json
+resnet_unet_best.keras
+unet_best.keras
+src/__pycache__
