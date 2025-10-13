@@ -56,7 +56,7 @@ requirements.txt       # Dependencies
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/diaazg/image_segmentation.git
 cd image_segmentation
 
 # Create and activate a Conda environment
