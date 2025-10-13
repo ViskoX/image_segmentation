@@ -14,6 +14,9 @@ Through this extension, I observed that the **MobileNet-U-Net consistently outpe
 
 ---
 
+# Mlflow Dashboard
+![Mlflow Dashboard](./assets/screenshot.png)
+
 ## Project Structure
 
 ```
